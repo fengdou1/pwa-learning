@@ -30,7 +30,7 @@ const vapidKeys = {
     publicKey: 'BNzbmU415CQnqE7LKI1NpciuSTY3QVWO1dXteCQCU3qoBI0e9gwFKYXj4mCAJlaYnyylOERy8UbCAYmwjrlJDkA',
     privateKey: '4TvDm8yA8vxN9WCKs01fLvVGY6OOIKnvLuMQMyW3sm8'
 };
-// 12
+// 1233
 // 设置web-push的VAPID值
 webpush.setVapidDetails(
     'mailto:852579110@qq.com',
